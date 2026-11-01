@@ -126,6 +126,3 @@ Note: the labels "(duplicate)" and "(wrong doc)" in `sample_emails.txt` are igno
 - **Single user, local only.** There is no login. The staff name is typed in, which is enough for a prototype audit trail but not for production.
 - For scanned PDFs, the pictures inside each page are read with OCR, so long PDFs are slow. The dashboard shows no preview for PDFs.
 
-## Possible next steps
-
-Connect a real mailbox, add login for staff, verify PAN and GSTIN through official APIs, add checksum checks, support more document layouts, send through SMTP or the WhatsApp Business API, and schedule the reminder check to run daily.
