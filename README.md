@@ -1,3 +1,6 @@
+# Screen recording of the working project
+<video controls src="20261101_151803.mp4" title="Title"></video>
+
 # Client Onboarding Automation for a CA Firm (Prototype)
 
 A small Python app that takes new-client emails and their documents and:
