@@ -1,0 +1,15 @@
+Email 1 | From: rohan@example.com | Attachments: sample_pan_rohan.png, sample_aadhaar_rohan.png
+Hi, I'm Rohan Mehta, need ITR filing for FY 2025-26. PAN ABCDE1234F, phone 9876500001.
+
+Email 2 | From: sunita@example.com | Attachments: sample_gst_sunita.png, sample_bank_statement_sunita.pdf
+Sunita Traders here. We need GST registration and monthly returns. GSTIN 27ABCDE1234F1Z5. Call 98765 00002.
+
+Email 3 | From: amit@example.com | Attachments: sample_pan_amit_invalid.png
+Please do my audit. I'm Amit Shah. PAN ABCDE12345.
+
+Email 4 (duplicate) | From: rohan@example.com | Attachments: sample_pan_rohan_blurry.png
+Sending my PAN again, ITR filing please.
+
+Email 5 (wrong doc) | From: rohan@example.com | Attachments: sample_wrong_document_electricity_bill.png
+Here is my ID proof for the ITR.
+All values are dummy.
